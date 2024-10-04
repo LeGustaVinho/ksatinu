@@ -1,0 +1,18 @@
+{
+    "name": "UniTask.Linq",
+    "rootNamespace": "",
+    "references": [
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ENABLE_UNITASK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

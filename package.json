@@ -1,0 +1,17 @@
+{
+    "name": "com.legustavinho.ksatinu",
+    "displayName": "Ksatinu (UniTask Fork)",
+    "author": { "name": "Cysharp, Inc.", "url": "https://cysharp.co.jp/en/" },
+    "version": "2.5.10",
+    "unity": "2018.4",
+    "description": "Provides an efficient async/await integration to Unity.",
+    "documentationUrl": "https://github.com/LeGustaVinho/ksatinu/blob/main/README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LeGustaVinho/ksatinu.git"
+    },
+    "keywords": [ "async/await", "async", "Task", "UniTask" ],
+    "license": "MIT",
+    "category": "Task",
+    "dependencies": {}
+}
